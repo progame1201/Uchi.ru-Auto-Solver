@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         uchi.ru auto answers
+// @name         uchi.ru Auto Solver
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.1.1
 // @description  Отображает ответы от тестов
 // @author       progame1201 + chatGPT
 // @match        https://uchi.ru/*
